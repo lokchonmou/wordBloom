@@ -1,0 +1,14 @@
+node_modules/
+dist/
+*.local
+*.tsbuildinfo
+.DS_Store
+
+# Local collaboration documents (keep on disk, exclude from publication)
+/game_log.md
+/game_notes.md
+/game_plan.md
+/game_technical.md
+
+# Local presentation brief
+/README-PPT.local.md

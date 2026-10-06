@@ -1,0 +1,2714 @@
+{
+  "format": "word-bloom",
+  "version": 1,
+  "settings": {
+    "balloonCount": 3,
+    "seconds": 30,
+    "tts": false,
+    "clearWrong": false,
+    "voice": ""
+  },
+  "banks": [],
+  "sessions": [
+    {
+      "id": "9bb7da07-c416-4d83-a2bc-bf7dcd97e12c",
+      "startedAt": "2026-10-06T15:46:46.725Z",
+      "updatedAt": "2026-10-06T15:47:04.173Z",
+      "level": {
+        "id": 1,
+        "title": [
+          "看英文，打英文",
+          "See it. Type it."
+        ],
+        "instruction": [
+          "打出氣球上的完整英文單字。",
+          "Type the English word on a balloon."
+        ],
+        "questions": [
+          {
+            "id": "lv1-1",
+            "prompt": "compare",
+            "answers": [
+              "compare"
+            ]
+          },
+          {
+            "id": "lv1-2",
+            "prompt": "estimate",
+            "answers": [
+              "estimate"
+            ]
+          },
+          {
+            "id": "lv1-3",
+            "prompt": "increase",
+            "answers": [
+              "increase"
+            ]
+          },
+          {
+            "id": "lv1-4",
+            "prompt": "decrease",
+            "answers": [
+              "decrease"
+            ]
+          },
+          {
+            "id": "lv1-5",
+            "prompt": "calculate",
+            "answers": [
+              "calculate"
+            ]
+          },
+          {
+            "id": "lv1-6",
+            "prompt": "identify",
+            "answers": [
+              "identify"
+            ]
+          },
+          {
+            "id": "lv1-7",
+            "prompt": "describe",
+            "answers": [
+              "describe"
+            ]
+          },
+          {
+            "id": "lv1-8",
+            "prompt": "explain",
+            "answers": [
+              "explain"
+            ]
+          },
+          {
+            "id": "lv1-9",
+            "prompt": "measure",
+            "answers": [
+              "measure"
+            ]
+          },
+          {
+            "id": "lv1-10",
+            "prompt": "predict",
+            "answers": [
+              "predict"
+            ]
+          }
+        ]
+      },
+      "settings": {
+        "balloonCount": 3,
+        "seconds": 30,
+        "tts": false,
+        "clearWrong": false,
+        "voice": ""
+      },
+      "round": {
+        "adjusted": false,
+        "settings": {
+          "balloonCount": 3,
+          "seconds": 30,
+          "tts": false,
+          "clearWrong": false,
+          "voice": ""
+        },
+        "shown": [
+          {
+            "questionId": "lv1-7",
+            "elapsedMs": 0
+          },
+          {
+            "questionId": "lv1-10",
+            "elapsedMs": 0
+          },
+          {
+            "questionId": "lv1-3",
+            "elapsedMs": 0
+          },
+          {
+            "questionId": "lv1-5",
+            "elapsedMs": 544.3999999880798
+          },
+          {
+            "questionId": "lv1-4",
+            "elapsedMs": 576.9999999880783
+          },
+          {
+            "questionId": "lv1-2",
+            "elapsedMs": 593.5999999880769
+          },
+          {
+            "questionId": "lv1-9",
+            "elapsedMs": 610.9999999880783
+          },
+          {
+            "questionId": "lv1-8",
+            "elapsedMs": 660.799999988074
+          },
+          {
+            "questionId": "lv1-6",
+            "elapsedMs": 677.6999999880754
+          },
+          {
+            "questionId": "lv1-1",
+            "elapsedMs": 710.9999999880783
+          }
+        ],
+        "order": [
+          {
+            "id": "lv1-7",
+            "prompt": "describe",
+            "answers": [
+              "describe"
+            ]
+          },
+          {
+            "id": "lv1-10",
+            "prompt": "predict",
+            "answers": [
+              "predict"
+            ]
+          },
+          {
+            "id": "lv1-3",
+            "prompt": "increase",
+            "answers": [
+              "increase"
+            ]
+          },
+          {
+            "id": "lv1-5",
+            "prompt": "calculate",
+            "answers": [
+              "calculate"
+            ]
+          },
+          {
+            "id": "lv1-4",
+            "prompt": "decrease",
+            "answers": [
+              "decrease"
+            ]
+          },
+          {
+            "id": "lv1-2",
+            "prompt": "estimate",
+            "answers": [
+              "estimate"
+            ]
+          },
+          {
+            "id": "lv1-9",
+            "prompt": "measure",
+            "answers": [
+              "measure"
+            ]
+          },
+          {
+            "id": "lv1-8",
+            "prompt": "explain",
+            "answers": [
+              "explain"
+            ]
+          },
+          {
+            "id": "lv1-6",
+            "prompt": "identify",
+            "answers": [
+              "identify"
+            ]
+          },
+          {
+            "id": "lv1-1",
+            "prompt": "compare",
+            "answers": [
+              "compare"
+            ]
+          }
+        ],
+        "rotation": 4.876278167683915,
+        "balloons": [],
+        "next": 10,
+        "lives": 3,
+        "elapsedMs": 793.8999999880798,
+        "outcomes": [
+          {
+            "word": "describe",
+            "questionId": "lv1-7",
+            "answer": "describe",
+            "at": "2026-10-06T15:46:56.348Z",
+            "elapsedMs": 544.3999999880798,
+            "result": "correct",
+            "balloon": {
+              "id": 0,
+              "word": "describe",
+              "question": {
+                "id": "lv1-7",
+                "prompt": "describe",
+                "answers": [
+                  "describe"
+                ]
+              },
+              "lane": 0,
+              "angle": 4.875165100367401,
+              "ageMs": 544.3999999880798,
+              "limitMs": 28635.33975658538
+            }
+          },
+          {
+            "word": "predict",
+            "questionId": "lv1-10",
+            "answer": "predict",
+            "at": "2026-10-06T15:46:56.372Z",
+            "elapsedMs": 576.9999999880783,
+            "result": "correct",
+            "balloon": {
+              "id": 1,
+              "word": "predict",
+              "question": {
+                "id": "lv1-10",
+                "prompt": "predict",
+                "answers": [
+                  "predict"
+                ]
+              },
+              "lane": 1,
+              "angle": 7.030711863109382,
+              "ageMs": 576.9999999880783,
+              "limitMs": 31110.38418543888
+            }
+          },
+          {
+            "word": "increase",
+            "questionId": "lv1-3",
+            "answer": "increase",
+            "at": "2026-10-06T15:46:56.391Z",
+            "elapsedMs": 593.5999999880769,
+            "result": "correct",
+            "balloon": {
+              "id": 2,
+              "word": "increase",
+              "question": {
+                "id": "lv1-3",
+                "prompt": "increase",
+                "answers": [
+                  "increase"
+                ]
+              },
+              "lane": 2,
+              "angle": 9.060169703683163,
+              "ageMs": 593.5999999880769,
+              "limitMs": 30361.569284559984
+            }
+          },
+          {
+            "word": "calculate",
+            "questionId": "lv1-5",
+            "answer": "calculate",
+            "at": "2026-10-06T15:46:56.412Z",
+            "elapsedMs": 610.9999999880783,
+            "result": "correct",
+            "balloon": {
+              "id": 3,
+              "word": "calculate",
+              "question": {
+                "id": "lv1-5",
+                "prompt": "calculate",
+                "answers": [
+                  "calculate"
+                ]
+              },
+              "lane": 0,
+              "angle": 4.9076951196993575,
+              "ageMs": 66.59999999999854,
+              "limitMs": 29467.601823448702
+            }
+          },
+          {
+            "word": "decrease",
+            "questionId": "lv1-4",
+            "answer": "decrease",
+            "at": "2026-10-06T15:46:56.456Z",
+            "elapsedMs": 660.799999988074,
+            "result": "correct",
+            "balloon": {
+              "id": 4,
+              "word": "decrease",
+              "question": {
+                "id": "lv1-4",
+                "prompt": "decrease",
+                "answers": [
+                  "decrease"
+                ]
+              },
+              "lane": 1,
+              "angle": 6.914479896883103,
+              "ageMs": 83.79999999999563,
+              "limitMs": 31636.966259159417
+            }
+          },
+          {
+            "word": "estimate",
+            "questionId": "lv1-2",
+            "answer": "estimate",
+            "at": "2026-10-06T15:46:56.481Z",
+            "elapsedMs": 677.6999999880754,
+            "result": "correct",
+            "balloon": {
+              "id": 5,
+              "word": "estimate",
+              "question": {
+                "id": "lv1-2",
+                "prompt": "estimate",
+                "answers": [
+                  "estimate"
+                ]
+              },
+              "lane": 2,
+              "angle": 9.062552720933203,
+              "ageMs": 84.09999999999854,
+              "limitMs": 30553.202263855375
+            }
+          },
+          {
+            "word": "measure",
+            "questionId": "lv1-9",
+            "answer": "measure",
+            "at": "2026-10-06T15:46:56.519Z",
+            "elapsedMs": 710.9999999880783,
+            "result": "correct",
+            "balloon": {
+              "id": 6,
+              "word": "measure",
+              "question": {
+                "id": "lv1-9",
+                "prompt": "measure",
+                "answers": [
+                  "measure"
+                ]
+              },
+              "lane": 0,
+              "angle": 4.889187115447432,
+              "ageMs": 100,
+              "limitMs": 28855.82912648186
+            }
+          },
+          {
+            "word": "explain",
+            "questionId": "lv1-8",
+            "answer": "explain",
+            "at": "2026-10-06T15:46:56.547Z",
+            "elapsedMs": 744.299999988074,
+            "result": "correct",
+            "balloon": {
+              "id": 7,
+              "word": "explain",
+              "question": {
+                "id": "lv1-8",
+                "prompt": "explain",
+                "answers": [
+                  "explain"
+                ]
+              },
+              "lane": 1,
+              "angle": 6.960958329392753,
+              "ageMs": 83.5,
+              "limitMs": 31816.87692549623
+            }
+          },
+          {
+            "word": "identify",
+            "questionId": "lv1-6",
+            "answer": "identify",
+            "at": "2026-10-06T15:46:56.576Z",
+            "elapsedMs": 777.5999999880769,
+            "result": "correct",
+            "balloon": {
+              "id": 8,
+              "word": "identify",
+              "question": {
+                "id": "lv1-6",
+                "prompt": "identify",
+                "answers": [
+                  "identify"
+                ]
+              },
+              "lane": 2,
+              "angle": 9.088698913219492,
+              "ageMs": 99.90000000000146,
+              "limitMs": 31500.482179542207
+            }
+          },
+          {
+            "word": "compare",
+            "questionId": "lv1-1",
+            "answer": "compare",
+            "at": "2026-10-06T15:46:56.598Z",
+            "elapsedMs": 793.8999999880798,
+            "result": "correct",
+            "balloon": {
+              "id": 9,
+              "word": "compare",
+              "question": {
+                "id": "lv1-1",
+                "prompt": "compare",
+                "answers": [
+                  "compare"
+                ]
+              },
+              "lane": 0,
+              "angle": 4.928243293015838,
+              "ageMs": 82.90000000000146,
+              "limitMs": 28294.70987748312
+            }
+          }
+        ],
+        "attempts": [
+          {
+            "input": "comapre",
+            "at": "2026-10-06T15:46:46.984Z",
+            "target": null,
+            "questionId": null,
+            "elapsedMs": 227.79999998807762,
+            "screen": [
+              {
+                "word": "describe",
+                "questionId": "lv1-7",
+                "prompt": "describe",
+                "growth": 0.007955205069138023
+              },
+              {
+                "word": "predict",
+                "questionId": "lv1-10",
+                "prompt": "predict",
+                "growth": 0.007322313946052093
+              },
+              {
+                "word": "increase",
+                "questionId": "lv1-3",
+                "prompt": "increase",
+                "growth": 0.007502905987930031
+              }
+            ]
+          },
+          {
+            "input": "describe",
+            "at": "2026-10-06T15:46:56.348Z",
+            "target": "describe",
+            "questionId": "lv1-7",
+            "elapsedMs": 544.3999999880798,
+            "screen": [
+              {
+                "word": "describe",
+                "questionId": "lv1-7",
+                "prompt": "describe",
+                "growth": 0.019011473396710162
+              },
+              {
+                "word": "predict",
+                "questionId": "lv1-10",
+                "prompt": "predict",
+                "growth": 0.017498980300053143
+              },
+              {
+                "word": "increase",
+                "questionId": "lv1-3",
+                "prompt": "increase",
+                "growth": 0.01793056198399231
+              }
+            ]
+          },
+          {
+            "input": "predict",
+            "at": "2026-10-06T15:46:56.372Z",
+            "target": "predict",
+            "questionId": "lv1-10",
+            "elapsedMs": 576.9999999880783,
+            "screen": [
+              {
+                "word": "predict",
+                "questionId": "lv1-10",
+                "prompt": "predict",
+                "growth": 0.018546861927154903
+              },
+              {
+                "word": "increase",
+                "questionId": "lv1-3",
+                "prompt": "increase",
+                "growth": 0.01900428777512185
+              },
+              {
+                "word": "calculate",
+                "questionId": "lv1-5",
+                "prompt": "calculate",
+                "growth": 0.001106299732001172
+              }
+            ]
+          },
+          {
+            "input": "increase",
+            "at": "2026-10-06T15:46:56.391Z",
+            "target": "increase",
+            "questionId": "lv1-3",
+            "elapsedMs": 593.5999999880769,
+            "screen": [
+              {
+                "word": "increase",
+                "questionId": "lv1-3",
+                "prompt": "increase",
+                "growth": 0.019551031582874905
+              },
+              {
+                "word": "calculate",
+                "questionId": "lv1-5",
+                "prompt": "calculate",
+                "growth": 0.0016696302703821126
+              },
+              {
+                "word": "decrease",
+                "questionId": "lv1-4",
+                "prompt": "decrease",
+                "growth": 0.0005247026489207881
+              }
+            ]
+          },
+          {
+            "input": "calculate",
+            "at": "2026-10-06T15:46:56.412Z",
+            "target": "calculate",
+            "questionId": "lv1-5",
+            "elapsedMs": 610.9999999880783,
+            "screen": [
+              {
+                "word": "calculate",
+                "questionId": "lv1-5",
+                "prompt": "calculate",
+                "growth": 0.0022601092684441633
+              },
+              {
+                "word": "decrease",
+                "questionId": "lv1-4",
+                "prompt": "decrease",
+                "growth": 0.0010746921724884555
+              },
+              {
+                "word": "estimate",
+                "questionId": "lv1-2",
+                "prompt": "estimate",
+                "growth": 0.000569498406410439
+              }
+            ]
+          },
+          {
+            "input": "decrease",
+            "at": "2026-10-06T15:46:56.456Z",
+            "target": "decrease",
+            "questionId": "lv1-4",
+            "elapsedMs": 660.799999988074,
+            "screen": [
+              {
+                "word": "decrease",
+                "questionId": "lv1-4",
+                "prompt": "decrease",
+                "growth": 0.00264880011925082
+              },
+              {
+                "word": "estimate",
+                "questionId": "lv1-2",
+                "prompt": "estimate",
+                "growth": 0.0021994421213090026
+              },
+              {
+                "word": "measure",
+                "questionId": "lv1-9",
+                "prompt": "measure",
+                "growth": 0.0017258211428169527
+              }
+            ]
+          },
+          {
+            "input": "estimate",
+            "at": "2026-10-06T15:46:56.481Z",
+            "target": "estimate",
+            "questionId": "lv1-2",
+            "elapsedMs": 677.6999999880754,
+            "screen": [
+              {
+                "word": "estimate",
+                "questionId": "lv1-2",
+                "prompt": "estimate",
+                "growth": 0.002752575630983511
+              },
+              {
+                "word": "measure",
+                "questionId": "lv1-9",
+                "prompt": "measure",
+                "growth": 0.002311491369997908
+              },
+              {
+                "word": "explain",
+                "questionId": "lv1-8",
+                "prompt": "explain",
+                "growth": 0.000531164640689758
+              }
+            ]
+          },
+          {
+            "input": "measure",
+            "at": "2026-10-06T15:46:56.519Z",
+            "target": "measure",
+            "questionId": "lv1-9",
+            "elapsedMs": 710.9999999880783,
+            "screen": [
+              {
+                "word": "measure",
+                "questionId": "lv1-9",
+                "prompt": "measure",
+                "growth": 0.00346550430284559
+              },
+              {
+                "word": "explain",
+                "questionId": "lv1-8",
+                "prompt": "explain",
+                "growth": 0.0015777789918713532
+              },
+              {
+                "word": "identify",
+                "questionId": "lv1-6",
+                "prompt": "identify",
+                "growth": 0.0010571266754014765
+              }
+            ]
+          },
+          {
+            "input": "explain",
+            "at": "2026-10-06T15:46:56.547Z",
+            "target": "explain",
+            "questionId": "lv1-8",
+            "elapsedMs": 744.299999988074,
+            "screen": [
+              {
+                "word": "explain",
+                "questionId": "lv1-8",
+                "prompt": "explain",
+                "growth": 0.00262439334305272
+              },
+              {
+                "word": "identify",
+                "questionId": "lv1-6",
+                "prompt": "identify",
+                "growth": 0.002114253350802722
+              },
+              {
+                "word": "compare",
+                "questionId": "lv1-1",
+                "prompt": "compare",
+                "growth": 0.0011768984430017327
+              }
+            ]
+          },
+          {
+            "input": "identify",
+            "at": "2026-10-06T15:46:56.576Z",
+            "target": "identify",
+            "questionId": "lv1-6",
+            "elapsedMs": 777.5999999880769,
+            "screen": [
+              {
+                "word": "identify",
+                "questionId": "lv1-6",
+                "prompt": "identify",
+                "growth": 0.0031713800262041987
+              },
+              {
+                "word": "compare",
+                "questionId": "lv1-1",
+                "prompt": "compare",
+                "growth": 0.0023537968860037227
+              }
+            ]
+          },
+          {
+            "input": "compare",
+            "at": "2026-10-06T15:46:56.598Z",
+            "target": "compare",
+            "questionId": "lv1-1",
+            "elapsedMs": 793.8999999880798,
+            "screen": [
+              {
+                "word": "compare",
+                "questionId": "lv1-1",
+                "prompt": "compare",
+                "growth": 0.002929876304049794
+              }
+            ]
+          }
+        ],
+        "finished": true
+      },
+      "reviews": []
+    },
+    {
+      "id": "4026dc9b-b2fa-4181-8d4a-2e375ff82662",
+      "startedAt": "2026-10-06T15:47:04.159Z",
+      "updatedAt": "2026-10-06T15:47:24.123Z",
+      "level": {
+        "id": 2,
+        "title": [
+          "看中文，打英文",
+          "Chinese to English"
+        ],
+        "instruction": [
+          "看中文提示，輸入對應英文。",
+          "Read the Chinese prompt and type its English equivalent."
+        ],
+        "questions": [
+          {
+            "id": "lv2-1",
+            "prompt": "比較",
+            "answers": [
+              "compare"
+            ]
+          },
+          {
+            "id": "lv2-2",
+            "prompt": "估算",
+            "answers": [
+              "estimate"
+            ]
+          },
+          {
+            "id": "lv2-3",
+            "prompt": "增加",
+            "answers": [
+              "increase"
+            ]
+          },
+          {
+            "id": "lv2-4",
+            "prompt": "減少",
+            "answers": [
+              "decrease"
+            ]
+          },
+          {
+            "id": "lv2-5",
+            "prompt": "計算",
+            "answers": [
+              "calculate",
+              "compute"
+            ]
+          },
+          {
+            "id": "lv2-6",
+            "prompt": "辨認",
+            "answers": [
+              "identify"
+            ]
+          },
+          {
+            "id": "lv2-7",
+            "prompt": "描述",
+            "answers": [
+              "describe"
+            ]
+          },
+          {
+            "id": "lv2-8",
+            "prompt": "解釋",
+            "answers": [
+              "explain"
+            ]
+          },
+          {
+            "id": "lv2-9",
+            "prompt": "量度",
+            "answers": [
+              "measure"
+            ]
+          },
+          {
+            "id": "lv2-10",
+            "prompt": "預測",
+            "answers": [
+              "predict"
+            ]
+          }
+        ]
+      },
+      "settings": {
+        "balloonCount": 3,
+        "seconds": 30,
+        "tts": false,
+        "clearWrong": false,
+        "voice": ""
+      },
+      "round": {
+        "adjusted": false,
+        "settings": {
+          "balloonCount": 3,
+          "seconds": 30,
+          "tts": false,
+          "clearWrong": false,
+          "voice": ""
+        },
+        "shown": [
+          {
+            "questionId": "lv2-7",
+            "elapsedMs": 0
+          },
+          {
+            "questionId": "lv2-3",
+            "elapsedMs": 0
+          },
+          {
+            "questionId": "lv2-6",
+            "elapsedMs": 0
+          },
+          {
+            "questionId": "lv2-1",
+            "elapsedMs": 541.4000000000015
+          },
+          {
+            "questionId": "lv2-9",
+            "elapsedMs": 558.0999999999985
+          },
+          {
+            "questionId": "lv2-10",
+            "elapsedMs": 574.1999999999971
+          },
+          {
+            "questionId": "lv2-5",
+            "elapsedMs": 608
+          },
+          {
+            "questionId": "lv2-4",
+            "elapsedMs": 624.4000000000015
+          },
+          {
+            "questionId": "lv2-8",
+            "elapsedMs": 658.0999999999985
+          },
+          {
+            "questionId": "lv2-2",
+            "elapsedMs": 691.4000000000015
+          }
+        ],
+        "order": [
+          {
+            "id": "lv2-7",
+            "prompt": "描述",
+            "answers": [
+              "describe"
+            ]
+          },
+          {
+            "id": "lv2-3",
+            "prompt": "增加",
+            "answers": [
+              "increase"
+            ]
+          },
+          {
+            "id": "lv2-6",
+            "prompt": "辨認",
+            "answers": [
+              "identify"
+            ]
+          },
+          {
+            "id": "lv2-1",
+            "prompt": "比較",
+            "answers": [
+              "compare"
+            ]
+          },
+          {
+            "id": "lv2-9",
+            "prompt": "量度",
+            "answers": [
+              "measure"
+            ]
+          },
+          {
+            "id": "lv2-10",
+            "prompt": "預測",
+            "answers": [
+              "predict"
+            ]
+          },
+          {
+            "id": "lv2-5",
+            "prompt": "計算",
+            "answers": [
+              "calculate",
+              "compute"
+            ]
+          },
+          {
+            "id": "lv2-4",
+            "prompt": "減少",
+            "answers": [
+              "decrease"
+            ]
+          },
+          {
+            "id": "lv2-8",
+            "prompt": "解釋",
+            "answers": [
+              "explain"
+            ]
+          },
+          {
+            "id": "lv2-2",
+            "prompt": "估算",
+            "answers": [
+              "estimate"
+            ]
+          }
+        ],
+        "rotation": 0.8946018044706311,
+        "balloons": [],
+        "next": 10,
+        "lives": 3,
+        "elapsedMs": 774.6999999999971,
+        "outcomes": [
+          {
+            "word": "describe",
+            "questionId": "lv2-7",
+            "answer": "describe",
+            "at": "2026-10-06T15:47:13.713Z",
+            "elapsedMs": 541.4000000000015,
+            "result": "correct",
+            "balloon": {
+              "id": 0,
+              "word": "describe",
+              "question": {
+                "id": "lv2-7",
+                "prompt": "描述",
+                "answers": [
+                  "describe"
+                ]
+              },
+              "lane": 0,
+              "angle": 0.9243230961467331,
+              "ageMs": 541.4000000000015,
+              "limitMs": 28027.783863475495
+            }
+          },
+          {
+            "word": "increase",
+            "questionId": "lv2-3",
+            "answer": "increase",
+            "at": "2026-10-06T15:47:13.732Z",
+            "elapsedMs": 558.0999999999985,
+            "result": "correct",
+            "balloon": {
+              "id": 1,
+              "word": "increase",
+              "question": {
+                "id": "lv2-3",
+                "prompt": "增加",
+                "answers": [
+                  "increase"
+                ]
+              },
+              "lane": 1,
+              "angle": 2.942775250142802,
+              "ageMs": 558.0999999999985,
+              "limitMs": 28796.372909936716
+            }
+          },
+          {
+            "word": "identify",
+            "questionId": "lv2-6",
+            "answer": "identify",
+            "at": "2026-10-06T15:47:13.751Z",
+            "elapsedMs": 574.1999999999971,
+            "result": "correct",
+            "balloon": {
+              "id": 2,
+              "word": "identify",
+              "question": {
+                "id": "lv2-6",
+                "prompt": "辨認",
+                "answers": [
+                  "identify"
+                ]
+              },
+              "lane": 2,
+              "angle": 5.127378382776197,
+              "ageMs": 574.1999999999971,
+              "limitMs": 30478.69751995886
+            }
+          },
+          {
+            "word": "compare",
+            "questionId": "lv2-1",
+            "answer": "compare",
+            "at": "2026-10-06T15:47:13.777Z",
+            "elapsedMs": 608,
+            "result": "correct",
+            "balloon": {
+              "id": 3,
+              "word": "compare",
+              "question": {
+                "id": "lv2-1",
+                "prompt": "比較",
+                "answers": [
+                  "compare"
+                ]
+              },
+              "lane": 0,
+              "angle": 0.8987593144880833,
+              "ageMs": 66.59999999999854,
+              "limitMs": 29536.61027138272
+            }
+          },
+          {
+            "word": "measure",
+            "questionId": "lv2-9",
+            "answer": "measure",
+            "at": "2026-10-06T15:47:13.800Z",
+            "elapsedMs": 624.4000000000015,
+            "result": "correct",
+            "balloon": {
+              "id": 4,
+              "word": "measure",
+              "question": {
+                "id": "lv2-9",
+                "prompt": "量度",
+                "answers": [
+                  "measure"
+                ]
+              },
+              "lane": 1,
+              "angle": 2.957876908618978,
+              "ageMs": 66.30000000000291,
+              "limitMs": 31984.070232772232
+            }
+          },
+          {
+            "word": "predict",
+            "questionId": "lv2-10",
+            "answer": "predict",
+            "at": "2026-10-06T15:47:13.830Z",
+            "elapsedMs": 658.0999999999985,
+            "result": "correct",
+            "balloon": {
+              "id": 5,
+              "word": "predict",
+              "question": {
+                "id": "lv2-10",
+                "prompt": "預測",
+                "answers": [
+                  "predict"
+                ]
+              },
+              "lane": 2,
+              "angle": 5.029001935506211,
+              "ageMs": 83.90000000000146,
+              "limitMs": 28226.14469116838
+            }
+          },
+          {
+            "word": "calculate",
+            "questionId": "lv2-5",
+            "answer": "compute",
+            "at": "2026-10-06T15:47:13.861Z",
+            "elapsedMs": 691.4000000000015,
+            "result": "correct",
+            "balloon": {
+              "id": 6,
+              "word": "calculate",
+              "question": {
+                "id": "lv2-5",
+                "prompt": "計算",
+                "answers": [
+                  "calculate",
+                  "compute"
+                ]
+              },
+              "lane": 0,
+              "angle": 0.8529574837993952,
+              "ageMs": 83.40000000000146,
+              "limitMs": 31747.658934578903
+            }
+          },
+          {
+            "word": "decrease",
+            "questionId": "lv2-4",
+            "answer": "decrease",
+            "at": "2026-10-06T15:47:13.891Z",
+            "elapsedMs": 723.9000000000015,
+            "result": "correct",
+            "balloon": {
+              "id": 7,
+              "word": "decrease",
+              "question": {
+                "id": "lv2-4",
+                "prompt": "減少",
+                "answers": [
+                  "decrease"
+                ]
+              },
+              "lane": 1,
+              "angle": 3.0529172388213643,
+              "ageMs": 99.5,
+              "limitMs": 29676.503770365285
+            }
+          },
+          {
+            "word": "explain",
+            "questionId": "lv2-8",
+            "answer": "explain",
+            "at": "2026-10-06T15:47:13.916Z",
+            "elapsedMs": 740.7999999999956,
+            "result": "correct",
+            "balloon": {
+              "id": 8,
+              "word": "explain",
+              "question": {
+                "id": "lv2-8",
+                "prompt": "解釋",
+                "answers": [
+                  "explain"
+                ]
+              },
+              "lane": 2,
+              "angle": 5.055203235498087,
+              "ageMs": 82.69999999999709,
+              "limitMs": 28129.26636596802
+            }
+          },
+          {
+            "word": "estimate",
+            "questionId": "lv2-2",
+            "answer": "estimate",
+            "at": "2026-10-06T15:47:13.943Z",
+            "elapsedMs": 774.6999999999971,
+            "result": "correct",
+            "balloon": {
+              "id": 9,
+              "word": "estimate",
+              "question": {
+                "id": "lv2-2",
+                "prompt": "估算",
+                "answers": [
+                  "estimate"
+                ]
+              },
+              "lane": 0,
+              "angle": 0.8501779710123364,
+              "ageMs": 83.29999999999563,
+              "limitMs": 29556.623934627714
+            }
+          }
+        ],
+        "attempts": [
+          {
+            "input": "calculte",
+            "at": "2026-10-06T15:47:04.412Z",
+            "target": null,
+            "questionId": null,
+            "elapsedMs": 241.40000000000146,
+            "screen": [
+              {
+                "word": "describe",
+                "questionId": "lv2-7",
+                "prompt": "描述",
+                "growth": 0.008612882173484387
+              },
+              {
+                "word": "increase",
+                "questionId": "lv2-3",
+                "prompt": "增加",
+                "growth": 0.008383000204748076
+              },
+              {
+                "word": "identify",
+                "questionId": "lv2-6",
+                "prompt": "辨認",
+                "growth": 0.007920285958477116
+              }
+            ]
+          },
+          {
+            "input": "describe",
+            "at": "2026-10-06T15:47:13.713Z",
+            "target": "describe",
+            "questionId": "lv2-7",
+            "elapsedMs": 541.4000000000015,
+            "screen": [
+              {
+                "word": "describe",
+                "questionId": "lv2-7",
+                "prompt": "描述",
+                "growth": 0.01931654684641438
+              },
+              {
+                "word": "increase",
+                "questionId": "lv2-3",
+                "prompt": "增加",
+                "growth": 0.018800978918188042
+              },
+              {
+                "word": "identify",
+                "questionId": "lv2-6",
+                "prompt": "辨認",
+                "growth": 0.017763226254844642
+              }
+            ]
+          },
+          {
+            "input": "increase",
+            "at": "2026-10-06T15:47:13.732Z",
+            "target": "increase",
+            "questionId": "lv2-3",
+            "elapsedMs": 558.0999999999985,
+            "screen": [
+              {
+                "word": "increase",
+                "questionId": "lv2-3",
+                "prompt": "增加",
+                "growth": 0.019380913066569434
+              },
+              {
+                "word": "identify",
+                "questionId": "lv2-6",
+                "prompt": "辨認",
+                "growth": 0.01831114993134234
+              },
+              {
+                "word": "compare",
+                "questionId": "lv2-1",
+                "prompt": "比較",
+                "growth": 0.0005654000187075394
+              }
+            ]
+          },
+          {
+            "input": "identify",
+            "at": "2026-10-06T15:47:13.751Z",
+            "target": "identify",
+            "questionId": "lv2-6",
+            "elapsedMs": 574.1999999999971,
+            "screen": [
+              {
+                "word": "identify",
+                "questionId": "lv2-6",
+                "prompt": "辨認",
+                "growth": 0.018839387727247348
+              },
+              {
+                "word": "compare",
+                "questionId": "lv2-1",
+                "prompt": "比較",
+                "growth": 0.0011104862642879075
+              },
+              {
+                "word": "measure",
+                "questionId": "lv2-9",
+                "prompt": "量度",
+                "growth": 0.000503375582995744
+              }
+            ]
+          },
+          {
+            "input": "compare",
+            "at": "2026-10-06T15:47:13.777Z",
+            "target": "compare",
+            "questionId": "lv2-1",
+            "elapsedMs": 608,
+            "screen": [
+              {
+                "word": "compare",
+                "questionId": "lv2-1",
+                "prompt": "比較",
+                "growth": 0.0022548288171214286
+              },
+              {
+                "word": "measure",
+                "questionId": "lv2-9",
+                "prompt": "量度",
+                "growth": 0.0015601516516453807
+              },
+              {
+                "word": "predict",
+                "questionId": "lv2-10",
+                "prompt": "預測",
+                "growth": 0.0011974713645742246
+              }
+            ]
+          },
+          {
+            "input": "measure",
+            "at": "2026-10-06T15:47:13.800Z",
+            "target": "measure",
+            "questionId": "lv2-9",
+            "elapsedMs": 624.4000000000015,
+            "screen": [
+              {
+                "word": "measure",
+                "questionId": "lv2-9",
+                "prompt": "量度",
+                "growth": 0.0020729069038895845
+              },
+              {
+                "word": "predict",
+                "questionId": "lv2-10",
+                "prompt": "預測",
+                "growth": 0.0017784929734208914
+              },
+              {
+                "word": "calculate",
+                "questionId": "lv2-5",
+                "prompt": "計算",
+                "growth": 0.0005165735222806904
+              }
+            ]
+          },
+          {
+            "input": "predict",
+            "at": "2026-10-06T15:47:13.830Z",
+            "target": "predict",
+            "questionId": "lv2-10",
+            "elapsedMs": 658.0999999999985,
+            "screen": [
+              {
+                "word": "predict",
+                "questionId": "lv2-10",
+                "prompt": "預測",
+                "growth": 0.002972421523306821
+              },
+              {
+                "word": "calculate",
+                "questionId": "lv2-5",
+                "prompt": "計算",
+                "growth": 0.0015780691137963136
+              },
+              {
+                "word": "decrease",
+                "questionId": "lv2-4",
+                "prompt": "減少",
+                "growth": 0.0011355785122386835
+              }
+            ]
+          },
+          {
+            "input": "compute",
+            "at": "2026-10-06T15:47:13.861Z",
+            "target": "calculate",
+            "questionId": "lv2-5",
+            "elapsedMs": 691.4000000000015,
+            "screen": [
+              {
+                "word": "calculate",
+                "questionId": "lv2-5",
+                "prompt": "計算",
+                "growth": 0.002626965351110153
+              },
+              {
+                "word": "decrease",
+                "questionId": "lv2-4",
+                "prompt": "減少",
+                "growth": 0.002257678347774432
+              },
+              {
+                "word": "explain",
+                "questionId": "lv2-8",
+                "prompt": "解釋",
+                "growth": 0.0011838204227142826
+              }
+            ]
+          },
+          {
+            "input": "decrease",
+            "at": "2026-10-06T15:47:13.891Z",
+            "target": "decrease",
+            "questionId": "lv2-4",
+            "elapsedMs": 723.9000000000015,
+            "screen": [
+              {
+                "word": "decrease",
+                "questionId": "lv2-4",
+                "prompt": "減少",
+                "growth": 0.003352820829903821
+              },
+              {
+                "word": "explain",
+                "questionId": "lv2-8",
+                "prompt": "解釋",
+                "growth": 0.0023392007151530458
+              },
+              {
+                "word": "estimate",
+                "questionId": "lv2-2",
+                "prompt": "估算",
+                "growth": 0.0010995843121962218
+              }
+            ]
+          },
+          {
+            "input": "explain",
+            "at": "2026-10-06T15:47:13.916Z",
+            "target": "explain",
+            "questionId": "lv2-8",
+            "elapsedMs": 740.7999999999956,
+            "screen": [
+              {
+                "word": "explain",
+                "questionId": "lv2-8",
+                "prompt": "解釋",
+                "growth": 0.002939998467220996
+              },
+              {
+                "word": "estimate",
+                "questionId": "lv2-2",
+                "prompt": "估算",
+                "growth": 0.00167136815453806
+              }
+            ]
+          },
+          {
+            "input": "estimate",
+            "at": "2026-10-06T15:47:13.943Z",
+            "target": "estimate",
+            "questionId": "lv2-2",
+            "elapsedMs": 774.6999999999971,
+            "screen": [
+              {
+                "word": "estimate",
+                "questionId": "lv2-2",
+                "prompt": "估算",
+                "growth": 0.002818319175567399
+              }
+            ]
+          }
+        ],
+        "finished": true
+      },
+      "reviews": []
+    },
+    {
+      "id": "e972f1d9-73f9-4281-b624-31a2d260fb6f",
+      "startedAt": "2026-10-06T15:47:24.109Z",
+      "updatedAt": "2026-10-06T15:48:58.014Z",
+      "level": {
+        "id": 3,
+        "title": [
+          "學科反義詞",
+          "Subject antonyms"
+        ],
+        "instruction": [
+          "輸入意思相反的英文詞。",
+          "Type an English word with the opposite meaning."
+        ],
+        "questions": [
+          {
+            "id": "lv3-1",
+            "prompt": "hot",
+            "answers": [
+              "cold"
+            ]
+          },
+          {
+            "id": "lv3-2",
+            "prompt": "increase",
+            "answers": [
+              "decrease"
+            ]
+          },
+          {
+            "id": "lv3-3",
+            "prompt": "large",
+            "answers": [
+              "small"
+            ]
+          },
+          {
+            "id": "lv3-4",
+            "prompt": "fast",
+            "answers": [
+              "slow"
+            ]
+          },
+          {
+            "id": "lv3-5",
+            "prompt": "begin",
+            "answers": [
+              "end",
+              "finish"
+            ]
+          },
+          {
+            "id": "lv3-6",
+            "prompt": "above",
+            "answers": [
+              "below"
+            ]
+          },
+          {
+            "id": "lv3-7",
+            "prompt": "maximum",
+            "answers": [
+              "minimum"
+            ]
+          },
+          {
+            "id": "lv3-8",
+            "prompt": "positive",
+            "answers": [
+              "negative"
+            ]
+          },
+          {
+            "id": "lv3-9",
+            "prompt": "true",
+            "answers": [
+              "false"
+            ]
+          },
+          {
+            "id": "lv3-10",
+            "prompt": "empty",
+            "answers": [
+              "full"
+            ]
+          }
+        ]
+      },
+      "settings": {
+        "balloonCount": 3,
+        "seconds": 30,
+        "tts": false,
+        "clearWrong": false,
+        "voice": ""
+      },
+      "round": {
+        "adjusted": false,
+        "settings": {
+          "balloonCount": 3,
+          "seconds": 30,
+          "tts": false,
+          "clearWrong": false,
+          "voice": ""
+        },
+        "shown": [
+          {
+            "questionId": "lv3-6",
+            "elapsedMs": 0
+          },
+          {
+            "questionId": "lv3-8",
+            "elapsedMs": 0
+          },
+          {
+            "questionId": "lv3-2",
+            "elapsedMs": 0
+          },
+          {
+            "questionId": "lv3-1",
+            "elapsedMs": 241.19999996424303
+          },
+          {
+            "questionId": "lv3-7",
+            "elapsedMs": 28041.699999964243
+          },
+          {
+            "questionId": "lv3-10",
+            "elapsedMs": 30258.299999964234
+          }
+        ],
+        "order": [
+          {
+            "id": "lv3-6",
+            "prompt": "above",
+            "answers": [
+              "below"
+            ]
+          },
+          {
+            "id": "lv3-8",
+            "prompt": "positive",
+            "answers": [
+              "negative"
+            ]
+          },
+          {
+            "id": "lv3-2",
+            "prompt": "increase",
+            "answers": [
+              "decrease"
+            ]
+          },
+          {
+            "id": "lv3-1",
+            "prompt": "hot",
+            "answers": [
+              "cold"
+            ]
+          },
+          {
+            "id": "lv3-7",
+            "prompt": "maximum",
+            "answers": [
+              "minimum"
+            ]
+          },
+          {
+            "id": "lv3-10",
+            "prompt": "empty",
+            "answers": [
+              "full"
+            ]
+          },
+          {
+            "id": "lv3-3",
+            "prompt": "large",
+            "answers": [
+              "small"
+            ]
+          },
+          {
+            "id": "lv3-5",
+            "prompt": "begin",
+            "answers": [
+              "end",
+              "finish"
+            ]
+          },
+          {
+            "id": "lv3-4",
+            "prompt": "fast",
+            "answers": [
+              "slow"
+            ]
+          },
+          {
+            "id": "lv3-9",
+            "prompt": "true",
+            "answers": [
+              "false"
+            ]
+          }
+        ],
+        "rotation": 1.9580165015695388,
+        "balloons": [
+          {
+            "id": 4,
+            "word": "minimum",
+            "question": {
+              "id": "lv3-7",
+              "prompt": "maximum",
+              "answers": [
+                "minimum"
+              ]
+            },
+            "lane": 1,
+            "angle": 4.115480221843245,
+            "ageMs": 2299.399999999994,
+            "limitMs": 28651.919986311554
+          },
+          {
+            "id": 5,
+            "word": "full",
+            "question": {
+              "id": "lv3-10",
+              "prompt": "empty",
+              "answers": [
+                "full"
+              ]
+            },
+            "lane": 2,
+            "angle": 6.220669015666995,
+            "ageMs": 82.80000000000291,
+            "limitMs": 30546.46285062396
+          }
+        ],
+        "next": 6,
+        "lives": 0,
+        "elapsedMs": 30358.39999996424,
+        "outcomes": [
+          {
+            "word": "below",
+            "questionId": "lv3-6",
+            "answer": "below",
+            "at": "2026-10-06T15:47:24.363Z",
+            "elapsedMs": 241.19999996424303,
+            "result": "correct",
+            "balloon": {
+              "id": 0,
+              "word": "below",
+              "question": {
+                "id": "lv3-6",
+                "prompt": "above",
+                "answers": [
+                  "below"
+                ]
+              },
+              "lane": 0,
+              "angle": 1.9565248840514844,
+              "ageMs": 241.19999996424303,
+              "limitMs": 28173.36663772275
+            }
+          },
+          {
+            "word": "negative",
+            "questionId": "lv3-8",
+            "answer": null,
+            "at": "2026-10-06T15:47:57.355Z",
+            "elapsedMs": 28041.699999964243,
+            "result": "timeout",
+            "balloon": {
+              "id": 1,
+              "word": "negative",
+              "question": {
+                "id": "lv3-8",
+                "prompt": "positive",
+                "answers": [
+                  "negative"
+                ]
+              },
+              "lane": 1,
+              "angle": 4.105114955780734,
+              "ageMs": 28041.699999964243,
+              "limitMs": 28026.465222014078
+            }
+          },
+          {
+            "word": "decrease",
+            "questionId": "lv3-2",
+            "answer": null,
+            "at": "2026-10-06T15:47:59.571Z",
+            "elapsedMs": 30258.299999964234,
+            "result": "timeout",
+            "balloon": {
+              "id": 2,
+              "word": "decrease",
+              "question": {
+                "id": "lv3-2",
+                "prompt": "increase",
+                "answers": [
+                  "decrease"
+                ]
+              },
+              "lane": 2,
+              "angle": 6.086479439430667,
+              "ageMs": 30258.299999964234,
+              "limitMs": 30241.837029463706
+            }
+          },
+          {
+            "word": "cold",
+            "questionId": "lv3-1",
+            "answer": null,
+            "at": "2026-10-06T15:47:59.671Z",
+            "elapsedMs": 30358.39999996424,
+            "result": "timeout",
+            "balloon": {
+              "id": 3,
+              "word": "cold",
+              "question": {
+                "id": "lv3-1",
+                "prompt": "hot",
+                "answers": [
+                  "cold"
+                ]
+              },
+              "lane": 0,
+              "angle": 1.9037820123624447,
+              "ageMs": 30117.199999999997,
+              "limitMs": 30101.946957848857
+            }
+          }
+        ],
+        "attempts": [
+          {
+            "input": "above",
+            "at": "2026-10-06T15:47:24.350Z",
+            "target": null,
+            "questionId": null,
+            "elapsedMs": 225.19999996424303,
+            "screen": [
+              {
+                "word": "below",
+                "questionId": "lv3-6",
+                "prompt": "above",
+                "growth": 0.007993364898844262
+              },
+              {
+                "word": "negative",
+                "questionId": "lv3-8",
+                "prompt": "positive",
+                "growth": 0.008035262320107145
+              },
+              {
+                "word": "decrease",
+                "questionId": "lv3-2",
+                "prompt": "increase",
+                "growth": 0.007446637575119444
+              }
+            ]
+          },
+          {
+            "input": "below",
+            "at": "2026-10-06T15:47:24.363Z",
+            "target": "below",
+            "questionId": "lv3-6",
+            "elapsedMs": 241.19999996424303,
+            "screen": [
+              {
+                "word": "below",
+                "questionId": "lv3-6",
+                "prompt": "above",
+                "growth": 0.008561277147520174
+              },
+              {
+                "word": "negative",
+                "questionId": "lv3-8",
+                "prompt": "positive",
+                "growth": 0.008606151294983377
+              },
+              {
+                "word": "decrease",
+                "questionId": "lv3-2",
+                "prompt": "increase",
+                "growth": 0.007975705964199503
+              }
+            ]
+          }
+        ],
+        "finished": true
+      },
+      "reviews": [
+        {
+          "id": "c194a02e-2535-47e4-83ab-b51ab9a730f5",
+          "questionId": "lv3-1",
+          "input": "warm",
+          "correct": false,
+          "assisted": false,
+          "at": "2026-10-06T15:48:27.643Z",
+          "elapsedMs": 6833.800000011921
+        },
+        {
+          "id": "1d5fbde8-a007-4225-85de-96a65dd7d9f3",
+          "questionId": "lv3-1",
+          "input": "cold",
+          "correct": true,
+          "assisted": false,
+          "at": "2026-10-06T15:48:27.927Z",
+          "elapsedMs": 284.5999999642372
+        },
+        {
+          "id": "6ee34e6e-14a9-4b9b-a116-f7f9eef023f2",
+          "questionId": "lv3-2",
+          "input": "decrease",
+          "correct": true,
+          "assisted": false,
+          "at": "2026-10-06T15:48:33.327Z",
+          "elapsedMs": 4931.300000011921
+        },
+        {
+          "id": "7a08ac78-aa10-4cf5-8540-82aa0f3668ef",
+          "questionId": "lv3-6",
+          "input": "below",
+          "correct": true,
+          "assisted": false,
+          "at": "2026-10-06T15:48:40.797Z",
+          "elapsedMs": 7201
+        },
+        {
+          "id": "cbd2e274-c2e1-4319-9f37-c7e15098b55f",
+          "questionId": "lv3-8",
+          "input": "negative",
+          "correct": true,
+          "assisted": true,
+          "at": "2026-10-06T15:48:58.014Z",
+          "elapsedMs": 16951.799999952316
+        }
+      ]
+    },
+    {
+      "id": "71309823-5e40-4a7f-a72d-b8cf7807e88b",
+      "startedAt": "2026-10-06T15:49:12.575Z",
+      "updatedAt": "2026-10-06T15:49:43.047Z",
+      "level": {
+        "id": 4,
+        "title": [
+          "英文釋義猜指令",
+          "Command words from meanings"
+        ],
+        "instruction": [
+          "看簡短英文釋義，輸入對應學科指令詞。",
+          "Read a short English meaning and type the command word."
+        ],
+        "questions": [
+          {
+            "id": "lv4-1",
+            "prompt": "give reasons",
+            "answers": [
+              "explain"
+            ]
+          },
+          {
+            "id": "lv4-2",
+            "prompt": "give a detailed account",
+            "answers": [
+              "describe"
+            ]
+          },
+          {
+            "id": "lv4-3",
+            "prompt": "find similarities and differences",
+            "answers": [
+              "compare"
+            ]
+          },
+          {
+            "id": "lv4-4",
+            "prompt": "work out a numerical answer",
+            "answers": [
+              "calculate",
+              "compute"
+            ]
+          },
+          {
+            "id": "lv4-5",
+            "prompt": "give an approximate value",
+            "answers": [
+              "estimate"
+            ]
+          },
+          {
+            "id": "lv4-6",
+            "prompt": "name or recognise",
+            "answers": [
+              "identify"
+            ]
+          },
+          {
+            "id": "lv4-7",
+            "prompt": "find size using an instrument",
+            "answers": [
+              "measure"
+            ]
+          },
+          {
+            "id": "lv4-8",
+            "prompt": "say what may happen next",
+            "answers": [
+              "predict"
+            ]
+          },
+          {
+            "id": "lv4-9",
+            "prompt": "give a brief answer",
+            "answers": [
+              "state"
+            ]
+          },
+          {
+            "id": "lv4-10",
+            "prompt": "support an answer with evidence",
+            "answers": [
+              "justify"
+            ]
+          }
+        ]
+      },
+      "settings": {
+        "balloonCount": 3,
+        "seconds": 30,
+        "tts": false,
+        "clearWrong": false,
+        "voice": ""
+      },
+      "round": {
+        "adjusted": false,
+        "settings": {
+          "balloonCount": 3,
+          "seconds": 30,
+          "tts": false,
+          "clearWrong": false,
+          "voice": ""
+        },
+        "shown": [
+          {
+            "questionId": "lv4-9",
+            "elapsedMs": 0
+          },
+          {
+            "questionId": "lv4-6",
+            "elapsedMs": 0
+          },
+          {
+            "questionId": "lv4-8",
+            "elapsedMs": 0
+          },
+          {
+            "questionId": "lv4-7",
+            "elapsedMs": 541.3000000119209
+          },
+          {
+            "questionId": "lv4-3",
+            "elapsedMs": 557.9000000119267
+          },
+          {
+            "questionId": "lv4-5",
+            "elapsedMs": 590.3000000119209
+          },
+          {
+            "questionId": "lv4-4",
+            "elapsedMs": 607.9000000119267
+          },
+          {
+            "questionId": "lv4-2",
+            "elapsedMs": 640.5000000119326
+          },
+          {
+            "questionId": "lv4-1",
+            "elapsedMs": 673.8000000119209
+          },
+          {
+            "questionId": "lv4-10",
+            "elapsedMs": 691.2000000119151
+          }
+        ],
+        "order": [
+          {
+            "id": "lv4-9",
+            "prompt": "give a brief answer",
+            "answers": [
+              "state"
+            ]
+          },
+          {
+            "id": "lv4-6",
+            "prompt": "name or recognise",
+            "answers": [
+              "identify"
+            ]
+          },
+          {
+            "id": "lv4-8",
+            "prompt": "say what may happen next",
+            "answers": [
+              "predict"
+            ]
+          },
+          {
+            "id": "lv4-7",
+            "prompt": "find size using an instrument",
+            "answers": [
+              "measure"
+            ]
+          },
+          {
+            "id": "lv4-3",
+            "prompt": "find similarities and differences",
+            "answers": [
+              "compare"
+            ]
+          },
+          {
+            "id": "lv4-5",
+            "prompt": "give an approximate value",
+            "answers": [
+              "estimate"
+            ]
+          },
+          {
+            "id": "lv4-4",
+            "prompt": "work out a numerical answer",
+            "answers": [
+              "calculate",
+              "compute"
+            ]
+          },
+          {
+            "id": "lv4-2",
+            "prompt": "give a detailed account",
+            "answers": [
+              "describe"
+            ]
+          },
+          {
+            "id": "lv4-1",
+            "prompt": "give reasons",
+            "answers": [
+              "explain"
+            ]
+          },
+          {
+            "id": "lv4-10",
+            "prompt": "support an answer with evidence",
+            "answers": [
+              "justify"
+            ]
+          }
+        ],
+        "rotation": 2.0262330250045895,
+        "balloons": [],
+        "next": 10,
+        "lives": 3,
+        "elapsedMs": 774.6000000119093,
+        "outcomes": [
+          {
+            "word": "state",
+            "questionId": "lv4-9",
+            "answer": "state",
+            "at": "2026-10-06T15:49:22.227Z",
+            "elapsedMs": 541.3000000119209,
+            "result": "correct",
+            "balloon": {
+              "id": 0,
+              "word": "state",
+              "question": {
+                "id": "lv4-9",
+                "prompt": "give a brief answer",
+                "answers": [
+                  "state"
+                ]
+              },
+              "lane": 0,
+              "angle": 2.0903602944617274,
+              "ageMs": 541.3000000119209,
+              "limitMs": 30979.490684142555
+            }
+          },
+          {
+            "word": "identify",
+            "questionId": "lv4-6",
+            "answer": "identify",
+            "at": "2026-10-06T15:49:22.248Z",
+            "elapsedMs": 557.9000000119267,
+            "result": "correct",
+            "balloon": {
+              "id": 1,
+              "word": "identify",
+              "question": {
+                "id": "lv4-6",
+                "prompt": "name or recognise",
+                "answers": [
+                  "identify"
+                ]
+              },
+              "lane": 1,
+              "angle": 4.195208628845514,
+              "ageMs": 557.9000000119267,
+              "limitMs": 29655.54460476707
+            }
+          },
+          {
+            "word": "predict",
+            "questionId": "lv4-8",
+            "answer": "predict",
+            "at": "2026-10-06T15:49:22.272Z",
+            "elapsedMs": 590.3000000119209,
+            "result": "correct",
+            "balloon": {
+              "id": 2,
+              "word": "predict",
+              "question": {
+                "id": "lv4-8",
+                "prompt": "say what may happen next",
+                "answers": [
+                  "predict"
+                ]
+              },
+              "lane": 2,
+              "angle": 6.173912107313994,
+              "ageMs": 590.3000000119209,
+              "limitMs": 31086.91460642785
+            }
+          },
+          {
+            "word": "measure",
+            "questionId": "lv4-7",
+            "answer": "measure",
+            "at": "2026-10-06T15:49:22.293Z",
+            "elapsedMs": 607.9000000119267,
+            "result": "correct",
+            "balloon": {
+              "id": 3,
+              "word": "measure",
+              "question": {
+                "id": "lv4-7",
+                "prompt": "find size using an instrument",
+                "answers": [
+                  "measure"
+                ]
+              },
+              "lane": 0,
+              "angle": 1.9717330947346026,
+              "ageMs": 66.60000000000582,
+              "limitMs": 31897.052398799267
+            }
+          },
+          {
+            "word": "compare",
+            "questionId": "lv4-3",
+            "answer": "compare",
+            "at": "2026-10-06T15:49:22.328Z",
+            "elapsedMs": 640.5000000119326,
+            "result": "correct",
+            "balloon": {
+              "id": 4,
+              "word": "compare",
+              "question": {
+                "id": "lv4-3",
+                "prompt": "find similarities and differences",
+                "answers": [
+                  "compare"
+                ]
+              },
+              "lane": 1,
+              "angle": 4.172252648102309,
+              "ageMs": 82.60000000000582,
+              "limitMs": 30315.762432822936
+            }
+          },
+          {
+            "word": "estimate",
+            "questionId": "lv4-5",
+            "answer": "estimate",
+            "at": "2026-10-06T15:49:22.358Z",
+            "elapsedMs": 673.8000000119209,
+            "result": "correct",
+            "balloon": {
+              "id": 5,
+              "word": "estimate",
+              "question": {
+                "id": "lv4-5",
+                "prompt": "give an approximate value",
+                "answers": [
+                  "estimate"
+                ]
+              },
+              "lane": 2,
+              "angle": 6.168790660841026,
+              "ageMs": 83.5,
+              "limitMs": 28648.942916029595
+            }
+          },
+          {
+            "word": "calculate",
+            "questionId": "lv4-4",
+            "answer": "compute",
+            "at": "2026-10-06T15:49:22.382Z",
+            "elapsedMs": 691.2000000119151,
+            "result": "correct",
+            "balloon": {
+              "id": 6,
+              "word": "calculate",
+              "question": {
+                "id": "lv4-4",
+                "prompt": "work out a numerical answer",
+                "answers": [
+                  "calculate",
+                  "compute"
+                ]
+              },
+              "lane": 0,
+              "angle": 1.958018247374171,
+              "ageMs": 83.29999999998836,
+              "limitMs": 31298.395663071715
+            }
+          },
+          {
+            "word": "describe",
+            "questionId": "lv4-2",
+            "answer": "describe",
+            "at": "2026-10-06T15:49:22.410Z",
+            "elapsedMs": 724.5000000119326,
+            "result": "correct",
+            "balloon": {
+              "id": 7,
+              "word": "describe",
+              "question": {
+                "id": "lv4-2",
+                "prompt": "give a detailed account",
+                "answers": [
+                  "describe"
+                ]
+              },
+              "lane": 1,
+              "angle": 4.10789177819766,
+              "ageMs": 84,
+              "limitMs": 29607.28785987863
+            }
+          },
+          {
+            "word": "explain",
+            "questionId": "lv4-1",
+            "answer": "explain",
+            "at": "2026-10-06T15:49:22.441Z",
+            "elapsedMs": 756.9000000119267,
+            "result": "correct",
+            "balloon": {
+              "id": 8,
+              "word": "explain",
+              "question": {
+                "id": "lv4-1",
+                "prompt": "give reasons",
+                "answers": [
+                  "explain"
+                ]
+              },
+              "lane": 2,
+              "angle": 6.1696042466230505,
+              "ageMs": 83.10000000000582,
+              "limitMs": 30726.073531207057
+            }
+          },
+          {
+            "word": "justify",
+            "questionId": "lv4-10",
+            "answer": "justify",
+            "at": "2026-10-06T15:49:22.459Z",
+            "elapsedMs": 774.6000000119093,
+            "result": "correct",
+            "balloon": {
+              "id": 9,
+              "word": "justify",
+              "question": {
+                "id": "lv4-10",
+                "prompt": "support an answer with evidence",
+                "answers": [
+                  "justify"
+                ]
+              },
+              "lane": 0,
+              "angle": 2.04315257513861,
+              "ageMs": 83.39999999999418,
+              "limitMs": 29457.459819830987
+            }
+          }
+        ],
+        "attempts": [
+          {
+            "input": "explan",
+            "at": "2026-10-06T15:49:22.212Z",
+            "target": null,
+            "questionId": null,
+            "elapsedMs": 523.7000000119151,
+            "screen": [
+              {
+                "word": "state",
+                "questionId": "lv4-9",
+                "prompt": "give a brief answer",
+                "growth": 0.016904732403492384
+              },
+              {
+                "word": "identify",
+                "questionId": "lv4-6",
+                "prompt": "name or recognise",
+                "growth": 0.017659429526299487
+              },
+              {
+                "word": "predict",
+                "questionId": "lv4-8",
+                "prompt": "say what may happen next",
+                "growth": 0.0168463164209815
+              }
+            ]
+          },
+          {
+            "input": "state",
+            "at": "2026-10-06T15:49:22.227Z",
+            "target": "state",
+            "questionId": "lv4-9",
+            "elapsedMs": 541.3000000119209,
+            "screen": [
+              {
+                "word": "state",
+                "questionId": "lv4-9",
+                "prompt": "give a brief answer",
+                "growth": 0.017472850200503643
+              },
+              {
+                "word": "identify",
+                "questionId": "lv4-6",
+                "prompt": "name or recognise",
+                "growth": 0.01825291044983568
+              },
+              {
+                "word": "predict",
+                "questionId": "lv4-8",
+                "prompt": "say what may happen next",
+                "growth": 0.017412471030495775
+              }
+            ]
+          },
+          {
+            "input": "identify",
+            "at": "2026-10-06T15:49:22.248Z",
+            "target": "identify",
+            "questionId": "lv4-6",
+            "elapsedMs": 557.9000000119267,
+            "screen": [
+              {
+                "word": "identify",
+                "questionId": "lv4-6",
+                "prompt": "name or recognise",
+                "growth": 0.018812670866352778
+              },
+              {
+                "word": "predict",
+                "questionId": "lv4-8",
+                "prompt": "say what may happen next",
+                "growth": 0.01794645776446948
+              },
+              {
+                "word": "measure",
+                "questionId": "lv4-7",
+                "prompt": "find size using an instrument",
+                "growth": 0.0005204242634228708
+              }
+            ]
+          },
+          {
+            "input": "predict",
+            "at": "2026-10-06T15:49:22.272Z",
+            "target": "predict",
+            "questionId": "lv4-8",
+            "elapsedMs": 590.3000000119209,
+            "screen": [
+              {
+                "word": "predict",
+                "questionId": "lv4-8",
+                "prompt": "say what may happen next",
+                "growth": 0.018988696931983864
+              },
+              {
+                "word": "measure",
+                "questionId": "lv4-7",
+                "prompt": "find size using an instrument",
+                "growth": 0.0015361921028742003
+              },
+              {
+                "word": "compare",
+                "questionId": "lv4-3",
+                "prompt": "find similarities and differences",
+                "growth": 0.0010687509532966465
+              }
+            ]
+          },
+          {
+            "input": "measure",
+            "at": "2026-10-06T15:49:22.293Z",
+            "target": "measure",
+            "questionId": "lv4-7",
+            "elapsedMs": 607.9000000119267,
+            "screen": [
+              {
+                "word": "measure",
+                "questionId": "lv4-7",
+                "prompt": "find size using an instrument",
+                "growth": 0.0020879672255394014
+              },
+              {
+                "word": "compare",
+                "questionId": "lv4-3",
+                "prompt": "find similarities and differences",
+                "growth": 0.0016493070266926522
+              },
+              {
+                "word": "estimate",
+                "questionId": "lv4-5",
+                "prompt": "give an approximate value",
+                "growth": 0.000614333312457344
+              }
+            ]
+          },
+          {
+            "input": "compare",
+            "at": "2026-10-06T15:49:22.328Z",
+            "target": "compare",
+            "questionId": "lv4-3",
+            "elapsedMs": 640.5000000119326,
+            "screen": [
+              {
+                "word": "compare",
+                "questionId": "lv4-3",
+                "prompt": "find similarities and differences",
+                "growth": 0.0027246552080964536
+              },
+              {
+                "word": "estimate",
+                "questionId": "lv4-5",
+                "prompt": "give an approximate value",
+                "growth": 0.001752246152577024
+              },
+              {
+                "word": "calculate",
+                "questionId": "lv4-4",
+                "prompt": "work out a numerical answer",
+                "growth": 0.00104158693470892
+              }
+            ]
+          },
+          {
+            "input": "estimate",
+            "at": "2026-10-06T15:49:22.358Z",
+            "target": "estimate",
+            "questionId": "lv4-5",
+            "elapsedMs": 673.8000000119209,
+            "screen": [
+              {
+                "word": "estimate",
+                "questionId": "lv4-5",
+                "prompt": "give an approximate value",
+                "growth": 0.0029145927039870034
+              },
+              {
+                "word": "calculate",
+                "questionId": "lv4-4",
+                "prompt": "work out a numerical answer",
+                "growth": 0.002105539233045997
+              },
+              {
+                "word": "describe",
+                "questionId": "lv4-2",
+                "prompt": "give a detailed account",
+                "growth": 0.0011247230802627413
+              }
+            ]
+          },
+          {
+            "input": "compute",
+            "at": "2026-10-06T15:49:22.382Z",
+            "target": "calculate",
+            "questionId": "lv4-4",
+            "elapsedMs": 691.2000000119151,
+            "screen": [
+              {
+                "word": "calculate",
+                "questionId": "lv4-4",
+                "prompt": "work out a numerical answer",
+                "growth": 0.0026614782718167303
+              },
+              {
+                "word": "describe",
+                "questionId": "lv4-2",
+                "prompt": "give a detailed account",
+                "growth": 0.0017124162213009394
+              },
+              {
+                "word": "explain",
+                "questionId": "lv4-1",
+                "prompt": "give reasons",
+                "growth": 0.0005662942901676584
+              }
+            ]
+          },
+          {
+            "input": "describe",
+            "at": "2026-10-06T15:49:22.410Z",
+            "target": "describe",
+            "questionId": "lv4-2",
+            "elapsedMs": 724.5000000119326,
+            "screen": [
+              {
+                "word": "describe",
+                "questionId": "lv4-2",
+                "prompt": "give a detailed account",
+                "growth": 0.0028371393015646637
+              },
+              {
+                "word": "explain",
+                "questionId": "lv4-1",
+                "prompt": "give reasons",
+                "growth": 0.001650064397213591
+              },
+              {
+                "word": "justify",
+                "questionId": "lv4-10",
+                "prompt": "support an answer with evidence",
+                "growth": 0.00113044370436855
+              }
+            ]
+          },
+          {
+            "input": "explain",
+            "at": "2026-10-06T15:49:22.441Z",
+            "target": "explain",
+            "questionId": "lv4-1",
+            "elapsedMs": 756.9000000119267,
+            "screen": [
+              {
+                "word": "explain",
+                "questionId": "lv4-1",
+                "prompt": "give reasons",
+                "growth": 0.0027045434202845665
+              },
+              {
+                "word": "justify",
+                "questionId": "lv4-10",
+                "prompt": "support an answer with evidence",
+                "growth": 0.0022303348761858245
+              }
+            ]
+          },
+          {
+            "input": "justify",
+            "at": "2026-10-06T15:49:22.459Z",
+            "target": "justify",
+            "questionId": "lv4-10",
+            "elapsedMs": 774.6000000119093,
+            "screen": [
+              {
+                "word": "justify",
+                "questionId": "lv4-10",
+                "prompt": "support an answer with evidence",
+                "growth": 0.00283120134967811
+              }
+            ]
+          }
+        ],
+        "finished": true
+      },
+      "reviews": [
+        {
+          "id": "bb082403-cc06-4e1b-87f1-c290ca628845",
+          "questionId": "lv4-6",
+          "input": "describe",
+          "correct": false,
+          "assisted": false,
+          "at": "2026-10-06T15:49:32.676Z",
+          "elapsedMs": 5617.800000011921
+        },
+        {
+          "id": "a452a6d9-ee30-4db5-8581-8db31513e335",
+          "questionId": "lv4-6",
+          "input": "identify",
+          "correct": true,
+          "assisted": false,
+          "at": "2026-10-06T15:49:32.962Z",
+          "elapsedMs": 285.5
+        },
+        {
+          "id": "94d691a2-38a0-4c2b-b7ee-f07cb060cff0",
+          "questionId": "lv4-8",
+          "input": "predict",
+          "correct": true,
+          "assisted": false,
+          "at": "2026-10-06T15:49:42.480Z",
+          "elapsedMs": 9250.299999952316
+        },
+        {
+          "id": "284d8947-1691-436c-bbc1-23a182faa9bb",
+          "questionId": "lv4-9",
+          "input": "state",
+          "correct": true,
+          "assisted": false,
+          "at": "2026-10-06T15:49:43.047Z",
+          "elapsedMs": 300.4000000357628
+        }
+      ]
+    }
+  ],
+  "activeId": "71309823-5e40-4a7f-a72d-b8cf7807e88b"
+}
