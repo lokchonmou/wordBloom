@@ -1,5 +1,7 @@
 # Word Bloom
 
+**[立即遊玩 / Play now](https://lokchonmou.github.io/wordBloom/)** · [GitHub](https://github.com/lokchonmou/wordBloom)
+
 [繁體中文](#繁體中文) · [English](#english)
 
 ## 繁體中文
@@ -208,7 +210,7 @@ CSV 保存後即可使用氣球玩法。圖中自訂 lv4-example 題庫正輸入
 
 ## GitHub Pages
 
-已附 `.github/workflows/pages.yml`。在目標 repository 的 Settings → Pages 選 GitHub Actions，推送到 `main` 後會執行測試、建置及發布；亦可手動執行 workflow。建置使用相對資源路徑，支援 repository 子路徑。此流程已在本機建置驗證，實際線上網址仍需發布後檢查。
+已附 `.github/workflows/pages.yml`。在目標 repository 的 Settings → Pages 選 GitHub Actions，推送到 `main` 後會執行測試、建置及發布；亦可手動執行 workflow。建置使用相對資源路徑，支援 repository 子路徑。已完成首次部署，並驗證線上首頁、Lv1判題及重新整理後進度保存。
 
 ## 本機執行
 
@@ -437,7 +439,7 @@ Try the [four-level demonstration save](demo-saves/student-lv1-lv4.json); instru
 
 ### GitHub Pages
 
-The included `.github/workflows/pages.yml` tests, builds and deploys on pushes to `main`, or by manual dispatch. Select GitHub Actions under the repository’s Settings → Pages. Relative asset URLs support repository subpaths. The build has been checked locally; the live URL must be verified after deployment.
+The included `.github/workflows/pages.yml` tests, builds and deploys on pushes to `main`, or by manual dispatch. Select GitHub Actions under the repository’s Settings → Pages. Relative asset URLs support repository subpaths. The initial deployment is live. The home page, Lv1 answer matching and progress persistence after reload have been checked.
 
 ### Run locally
 
